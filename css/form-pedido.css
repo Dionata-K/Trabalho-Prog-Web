@@ -27,7 +27,7 @@
     width: 100%;
     border: none;
     background-color: #ecf0f1;
-    display: flex;    
+    text-align: center; 
 }
 
 .label-input{
@@ -54,8 +54,14 @@
     border:1px solid rgb(224, 135, 0);
     color: rgb(224, 135, 0);
     transition: background-color .5s;
+    align-items: center;
+    text-align: center;
+    
+    
 }
 .btn-segundo:hover{
     background-color: rgb(224, 135, 0);
     color: #fff;
+    display: flex;
+    
 }
