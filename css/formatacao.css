@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(197, 197, 197, 0.521);
+    background-color: #34495e;
   }
   .imgfundo {
     background-image: url('img/fundo.jpg');
